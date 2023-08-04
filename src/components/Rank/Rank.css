@@ -1,0 +1,9 @@
+.hero {
+  font-family: "Courier New", Courier, monospace;
+  font-weight: 700;
+}
+
+.hero-num {
+  height: 100px;
+  width: 50px;
+}
